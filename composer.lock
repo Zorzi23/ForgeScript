@@ -4,16 +4,23 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6fdc5d95a1a4ca5b022416ce6bf3bd16",
+    "content-hash": "48e9e57c7714d0fb31ea5289219e4be9",
     "packages": [
         {
             "name": "zorzi23/grammi_core",
             "version": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "C:/Users/gusta/Documents/Git/PHP/grammi_core",
-                "reference": "9a1abc9caa82a9d75011f6d802d9a02d468c65fa"
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Zorzi23/GrammiCore.git",
+                "reference": "98cf2453b4df9b55bcf9186f5043fb9cad6392ef"
             },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/98cf2453b4df9b55bcf9186f5043fb9cad6392ef",
+                "reference": "98cf2453b4df9b55bcf9186f5043fb9cad6392ef",
+                "shasum": ""
+            },
+            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -26,9 +33,11 @@
                     "email": "gustavozorzi2003@gmail.com"
                 }
             ],
-            "transport-options": {
-                "relative": false
-            }
+            "support": {
+                "source": "https://github.com/Zorzi23/GrammiCore/tree/main",
+                "issues": "https://github.com/Zorzi23/GrammiCore/issues"
+            },
+            "time": "2025-01-17T00:09:35+00:00"
         }
     ],
     "packages-dev": [],

@@ -4,11 +4,19 @@
             "name": "zorzi23/grammi_core",
             "version": "dev-main",
             "version_normalized": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "C:/Users/gusta/Documents/Git/PHP/grammi_core",
-                "reference": "9a1abc9caa82a9d75011f6d802d9a02d468c65fa"
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Zorzi23/GrammiCore.git",
+                "reference": "98cf2453b4df9b55bcf9186f5043fb9cad6392ef"
             },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/98cf2453b4df9b55bcf9186f5043fb9cad6392ef",
+                "reference": "98cf2453b4df9b55bcf9186f5043fb9cad6392ef",
+                "shasum": ""
+            },
+            "time": "2025-01-17T00:09:35+00:00",
+            "default-branch": true,
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -22,8 +30,9 @@
                     "email": "gustavozorzi2003@gmail.com"
                 }
             ],
-            "transport-options": {
-                "relative": false
+            "support": {
+                "source": "https://github.com/Zorzi23/GrammiCore/tree/main",
+                "issues": "https://github.com/Zorzi23/GrammiCore/issues"
             },
             "install-path": "../zorzi23/grammi_core"
         }
