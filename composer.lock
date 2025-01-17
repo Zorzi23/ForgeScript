@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Zorzi23/GrammiCore.git",
-                "reference": "98cf2453b4df9b55bcf9186f5043fb9cad6392ef"
+                "reference": "e23c11ff15324ed6878ce5c40e81a8792c87f827"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/98cf2453b4df9b55bcf9186f5043fb9cad6392ef",
-                "reference": "98cf2453b4df9b55bcf9186f5043fb9cad6392ef",
+                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/e23c11ff15324ed6878ce5c40e81a8792c87f827",
+                "reference": "e23c11ff15324ed6878ce5c40e81a8792c87f827",
                 "shasum": ""
             },
             "default-branch": true,
@@ -27,17 +27,21 @@
                     "GrammiCore\\": "src/"
                 }
             },
+            "license": [
+                "MIT"
+            ],
             "authors": [
                 {
                     "name": "Gustavo Zorzi",
                     "email": "gustavozorzi2003@gmail.com"
                 }
             ],
+            "description": "Core library providing lexer, parser, and interpreter structures.",
             "support": {
                 "source": "https://github.com/Zorzi23/GrammiCore/tree/main",
                 "issues": "https://github.com/Zorzi23/GrammiCore/issues"
             },
-            "time": "2025-01-17T00:09:35+00:00"
+            "time": "2025-01-17T21:12:20+00:00"
         }
     ],
     "packages-dev": [],
