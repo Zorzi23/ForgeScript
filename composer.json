@@ -1,5 +1,6 @@
 {
     "name": "zorzi23/forge_script",
+    "description": "A foundational scripting library for building custom script languages .",
     "type": "library",
     "license": "MIT",
     "autoload": {
