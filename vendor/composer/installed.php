@@ -3,7 +3,7 @@
         'name' => 'zorzi23/forge_script',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '79e627cf4653a55c40c7f8ad8dcb956ea35a4821',
+        'reference' => '2b07f2d18331e77e0f6ea28645e40f88af65409b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'zorzi23/forge_script' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '79e627cf4653a55c40c7f8ad8dcb956ea35a4821',
+            'reference' => '2b07f2d18331e77e0f6ea28645e40f88af65409b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -22,7 +22,7 @@
         'zorzi23/grammi_core' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '24af6dcb6f6b0ac10d59c849da824dd70a88aa70',
+            'reference' => '4b2da3a7f6b0f4a15cb9aff1d45ac3deabb53b1a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../zorzi23/grammi_core',
             'aliases' => array(

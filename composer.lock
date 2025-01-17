@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Zorzi23/GrammiCore.git",
-                "reference": "24af6dcb6f6b0ac10d59c849da824dd70a88aa70"
+                "reference": "4b2da3a7f6b0f4a15cb9aff1d45ac3deabb53b1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/24af6dcb6f6b0ac10d59c849da824dd70a88aa70",
-                "reference": "24af6dcb6f6b0ac10d59c849da824dd70a88aa70",
+                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/4b2da3a7f6b0f4a15cb9aff1d45ac3deabb53b1a",
+                "reference": "4b2da3a7f6b0f4a15cb9aff1d45ac3deabb53b1a",
                 "shasum": ""
             },
             "default-branch": true,
@@ -42,7 +42,7 @@
                 "issues": "https://github.com/Zorzi23/GrammiCore/issues",
                 "source": "https://github.com/Zorzi23/GrammiCore/tree/main"
             },
-            "time": "2025-01-17T21:16:36+00:00"
+            "time": "2025-01-17T22:45:02+00:00"
         }
     ],
     "packages-dev": [],
