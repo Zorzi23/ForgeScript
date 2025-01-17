@@ -7,15 +7,15 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Zorzi23/GrammiCore.git",
-                "reference": "e23c11ff15324ed6878ce5c40e81a8792c87f827"
+                "reference": "24af6dcb6f6b0ac10d59c849da824dd70a88aa70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/e23c11ff15324ed6878ce5c40e81a8792c87f827",
-                "reference": "e23c11ff15324ed6878ce5c40e81a8792c87f827",
+                "url": "https://api.github.com/repos/Zorzi23/GrammiCore/zipball/24af6dcb6f6b0ac10d59c849da824dd70a88aa70",
+                "reference": "24af6dcb6f6b0ac10d59c849da824dd70a88aa70",
                 "shasum": ""
             },
-            "time": "2025-01-17T21:12:20+00:00",
+            "time": "2025-01-17T21:16:36+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "dist",
@@ -24,6 +24,7 @@
                     "GrammiCore\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -35,8 +36,8 @@
             ],
             "description": "Core library providing lexer, parser, and interpreter structures.",
             "support": {
-                "source": "https://github.com/Zorzi23/GrammiCore/tree/main",
-                "issues": "https://github.com/Zorzi23/GrammiCore/issues"
+                "issues": "https://github.com/Zorzi23/GrammiCore/issues",
+                "source": "https://github.com/Zorzi23/GrammiCore/tree/main"
             },
             "install-path": "../zorzi23/grammi_core"
         }

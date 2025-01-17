@@ -17,11 +17,5 @@
     "minimum-stability": "dev",
     "require": {
         "zorzi23/grammi_core": "dev-main"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Zorzi23/GrammiCore"
-        }
-    ]
+    }
 }
