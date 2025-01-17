@@ -19,8 +19,8 @@
     },
     "repositories": [
         {
-            "type": "path",
-            "url": "C:/Users/gusta/Documents/Git/PHP/grammi_core"
+            "type": "vcs",
+            "url": "https://github.com/Zorzi23/GrammiCore"
         }
     ]
 }
