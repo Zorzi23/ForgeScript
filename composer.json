@@ -1,0 +1,26 @@
+{
+    "name": "zorzi23/forge_script",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ForgeScript\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Zorzi",
+            "email": "gustavozorzi2003@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "zorzi23/grammi_core": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "C:/Users/gusta/Documents/Git/PHP/grammi_core"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6fdc5d95a1a4ca5b022416ce6bf3bd16",
+    "packages": [
+        {
+            "name": "zorzi23/grammi_core",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "C:/Users/gusta/Documents/Git/PHP/grammi_core",
+                "reference": "9a1abc9caa82a9d75011f6d802d9a02d468c65fa"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "GrammiCore\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Gustavo Zorzi",
+                    "email": "gustavozorzi2003@gmail.com"
+                }
+            ],
+            "transport-options": {
+                "relative": false
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "zorzi23/grammi_core": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

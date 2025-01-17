@@ -1,0 +1,33 @@
+{
+    "packages": [
+        {
+            "name": "zorzi23/grammi_core",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "C:/Users/gusta/Documents/Git/PHP/grammi_core",
+                "reference": "9a1abc9caa82a9d75011f6d802d9a02d468c65fa"
+            },
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "GrammiCore\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Gustavo Zorzi",
+                    "email": "gustavozorzi2003@gmail.com"
+                }
+            ],
+            "transport-options": {
+                "relative": false
+            },
+            "install-path": "../zorzi23/grammi_core"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
