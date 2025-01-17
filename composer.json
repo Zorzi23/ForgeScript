@@ -19,7 +19,7 @@
     },
     "repositories": [
         {
-            "type": "path",
+            "type": "vcs",
             "url": "https://github.com/Zorzi23/GrammiCore"
         }
     ]
